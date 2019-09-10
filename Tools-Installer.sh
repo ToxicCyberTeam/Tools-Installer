@@ -285,7 +285,7 @@ fi
 if [ $pil = 0 ]
 then
 clear
-figlet -f slant "T C T"|Ulolcat
+figlet -f slant "T C T"| lolcat
 sleep 2
 echo $cy"Semoga Bermanfaat"
 sleep 1
