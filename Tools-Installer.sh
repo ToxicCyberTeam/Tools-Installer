@@ -43,7 +43,7 @@ echo $cy"["$me"18"$cy"]"$i" PHISING SOSMED"
 echo $cy"["$me"19"$cy"]"$i" HASH KILLER"
 echo $cy"["$me"20"$cy"]"$i" BUAT SCRIPT DEFACE"
 echo $cy"["$me"99"$cy"]"$i" ALL MEMBER OFFICIAL TCT"
-echo $pur"["$i"0"$pur"]"$ku" EXIT"
+echo $pur"["$i"00"$pur"]"$ku" EXIT"
 echo
 echo $bi"╭─# Tools Installer ["$bi"Masukkan pilihan anda"$bi"]"
 read -p"╰─# Official TCT >>" pil
