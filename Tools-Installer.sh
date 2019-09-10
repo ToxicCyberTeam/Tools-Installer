@@ -46,7 +46,7 @@ echo $cy"["$me"99"$cy"]"$i" ALL MEMBER OFFICIAL TCT"
 echo $pur"["$i"00"$pur"]"$ku" EXIT"
 echo
 echo $bi"╭─# Tools Installer ["$bi"Masukkan pilihan anda"$bi"]"
-read -p"╰─# Official TCT >>" pil
+read -p"╰─# Official TCT ~: " pil
 
 if [ $pil = 1 ]
 then
